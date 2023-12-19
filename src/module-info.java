@@ -1,0 +1,2 @@
+module CodSoftTask1 {
+}
